@@ -1,0 +1,216 @@
+body {
+
+    margin:auto;
+    padding: 0px;
+    background-color: #d3d0d02d;
+}
+
+.Toppage {
+    Border-bottom: 3px solid #CCCCCC;
+    width: 100%;
+    background-color: #ffffff;
+    
+}
+
+.header {
+    border: 4px solid #4aaaa5; 
+    padding:5px;  
+    width: 20%;
+    length: 8%;
+      text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    position: relative;
+    bottom: 0px;
+    left: 230px;
+    font-size: 18;
+    Font-family: 'Georgia', 'Times New Roman', Times, Serif; 
+
+}
+
+.topNavBar {
+        Font-family: 'ariel', 'Helvetica Neue', Helvetica, sans-serif; 
+        Font-size: 18;
+        text-align: right;
+        float: right;
+        background-color: #ffffff;
+        position: relative;
+        top: -50px;
+        right: 190px; 
+        color: #777777;
+        
+        
+} 
+a:hover {
+    color: #666666;
+}
+a:visited {
+    color: #777777;
+
+}
+a:active   {
+    color: #666666;
+    background-color: #CCCCCC;
+
+}
+.Nav1 {
+    text-decoration: none;
+    padding: 10px;
+    
+}
+.Nav2 {
+    text-decoration: none;
+    padding: 10px;
+   
+}
+.Nav3 {
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+.MainContent {
+    margin: 40px 230px 160px 230px;
+    padding: 30px;
+    border: 2px solid #dddddd;
+    background-color: #ffffff;
+    font-size: 18; 
+    Font-family: 'ariel', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    outline-color: #dddddddc;
+    line-height: 2;
+}
+.ProfilePic {
+    position: relative;
+    
+}
+
+.Title1 {
+    color: #4aaaa5;
+    Font: bold 24; 
+    Border-bottom: 2px solid #CCCCCC;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    
+}
+.Scratch {
+    position: relative; 
+}
+.Scratchtext {
+    font-size: 18px;
+    background: #4aaaa5;
+    font-family: 'georgia', 'Times New Roman', Times, serif;
+    position: absolute;
+    bottom: 27%;
+    left: 19.4%;
+    color:white;
+    width: 270px;
+    text-align: center;
+    padding: 16px 0px 16px 0px;
+}
+
+.Javas {
+    position: relative;
+    left: -240px;
+}
+.Javastext  {
+    font-size: 18px;
+    background: #4aaaa5;
+    font-family: 'georgia', 'Times New Roman', Times, serif;
+    position: absolute;
+    bottom: 27%;
+    left: 42.6%;
+    color: white;
+    width: 270px;
+    text-align: center;
+    padding: 16px 0px 16px 0px;
+}
+.DogBoo {
+    position: relative;
+    bottom:-15px;
+}
+.Dogbootext{
+    font-size: 18px;
+    background: #4aaaa5;
+    font-family: 'georgia', 'Times New Roman', Times, serif;
+    position: absolute;
+    bottom: -50px;
+    left: 19.4%;
+    color:white;
+    width: 270px;
+    text-align: center;
+    padding: 16px 0px 16px 0px;
+}
+.Band {
+    position: relative;
+    left: 30px;
+    bottom: -230px;
+}
+
+.Coldplaytext{
+    font-size: 18px;
+    background: #4aaaa5;
+    font-family: 'georgia', 'Times New Roman', Times, serif;
+    position: absolute;
+    bottom: -50px;
+    left: 42.6%;
+    color: white;
+    width: 270px;
+    text-align: center;
+    padding: 16px 0px 16px 0px;
+}
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#666666;
+    color: white;
+   
+    Border-top: 8px solid #4aaaa5;
+    height: 50px;
+    
+}
+.footerContent  {
+    position: fixed;
+	bottom: 2;
+    text-align: center;
+    right: 660;
+    font-size: 13px;
+    
+
+
+}
+
+.Textarea1 {
+
+    color: #666666;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 20%;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
