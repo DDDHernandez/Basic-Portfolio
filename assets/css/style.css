@@ -142,6 +142,25 @@ a:active   {
     text-align: center;
     padding: 16px 0px 16px 0px;
 }
+.Trivia {
+    position: relative;
+    bottom: -260px;
+    left: -270px;
+}
+.TriviaGame{
+    font-size: 18px;
+    background: #4aaaa5;
+    font-family: 'georgia', 'Times New Roman', Times, serif;
+    position: absolute;
+    bottom: -290px;
+    left: 19.5%;
+    color:white;
+    width: 270px;
+    text-align: center;
+    padding: 16px 0px 16px 0px;
+}
+
+
 .Band {
     position: relative;
     left: 30px;
